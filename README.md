@@ -16,7 +16,7 @@ Simple Python 3 program that can be ran in your preferred code editor (e.g. Visu
 
 ## Future Commits
 
-- Add more words to the gloassary. A website online has this information available, look to extract using an API? Open to suggestions.
+- Add more words to the gloassary. A website online has this information available, look to extract using an API or web scraping? Open to suggestions.
 - Return necessary prompts / error messages when the users input is too unrecognisable to clean up and find the right term to progress
 - Produce a UI 
 
