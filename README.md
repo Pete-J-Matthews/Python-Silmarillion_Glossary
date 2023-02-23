@@ -1,4 +1,4 @@
-# Silmarillion_Glossary 
+# Silmarillion Glossary 
 
 A glossary for one of Tolkien's books.
 
